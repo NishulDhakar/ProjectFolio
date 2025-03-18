@@ -64,7 +64,7 @@ const Projects = () => {
       "category": "Frontend",
       "image": "/images/TypingGame.png",
       "githubLink": "https://github.com/NishulDhakar/Typing-Game",
-      "liveLink": "https://your-live-demo-link.com",
+      "liveLink": "https://typing-game-lyart.vercel.app/",
       "color": "from-blue-500 to-indigo-600",
       "features": [
           "Real-time Words Per Minute (WPM) and accuracy tracking",
