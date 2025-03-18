@@ -58,18 +58,9 @@ export const projects = [
 ];
 ```
 
-## 📱 Screenshots
+## 👨‍💻 Author 
 
-<div align="center">
-  <img src="https://via.placeholder.com/250x400?text=Mobile+View" alt="Mobile View" width="250px" />
-  <img src="https://via.placeholder.com/500x400?text=Desktop+View" alt="Desktop View" width="500px" />
-</div>
-
-## 👨‍💻 Author
-
-**Nishul Dhakar** – Full-Stack Developer
-
-* GitHub: [NishulDhakar](https://github.com/NishulDhakar)
+* Linkdin: [NishulDhakar](https://www.linkedin.com/in/nishuldhakar/)
 * Website: [https://project-folio-chi.vercel.app/](https://project-folio-chi.vercel.app/)
 
 ## ⭐ Support
