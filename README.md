@@ -43,32 +43,6 @@ Experience ProjectFolio in action at [projectfolio.dev](https://projectfolio.dev
 </p>
 </details>
 
-## 🏗️ Tech Stack
-
-```mermaid
-graph TD
-    A[ProjectFolio] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    
-    B --> B1[React.js]
-    B --> B2[Next.js]
-    B --> B3[Tailwind CSS]
-    B --> B4[Framer Motion]
-    B --> B5[TypeScript]
-    
-    C --> C1[Node.js]
-    C --> C2[Express.js]
-    C --> C3[MongoDB/PostgreSQL]
-    C --> C4[Redis]
-    C --> C5[GraphQL]
-    
-    D --> D1[Vercel/Railway]
-    D --> D2[Docker]
-    D --> D3[GitHub Actions]
-    D --> D4[Jest/Cypress]
-```
-
 ### Security Features
 * **🔐 JWT Authentication** – Secure user sessions
 * **🔒 HTTPS Enforcement** – Automatic redirects to secure connections
