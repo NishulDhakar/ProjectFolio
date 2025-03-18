@@ -8,12 +8,10 @@ A sleek and modern portfolio website built with **React**, showcasing projects. 
 
 ## ✨ Features  
 
-- **🖥️ About Me Section** – Highlights your skills, experience, and passion for development.  
-- **🎯 Technical Skills** – Displays expertise in frontend, backend, databases, security, and DevOps.  
-- **📂 Project Showcase** – Organized section for featuring your best projects with links.  
-- **🌙 Dark Mode** – Stylish dark-themed UI for an enhanced visual experience.  
+- **🖥️ About Me Section** – Highlights Technical skills that use in projects.   
+- **📂 Project Showcase** – Organized section for featuring your best projects with links.    
 - **📱 Responsive Design** – Works smoothly across all devices and screen sizes.  
-- **🚀 Fast & Optimized** – Built with **Next.js** for high performance and SEO-friendly pages.  
+- **🚀 Fast & Optimized** – Built with **React** for high performance and SEO-friendly pages.  
 
 ---
 
