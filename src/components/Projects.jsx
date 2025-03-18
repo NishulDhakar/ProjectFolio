@@ -38,7 +38,7 @@ const Projects = () => {
     longDescription: "DrumKit is a fun and interactive web-based drum simulator that enables users to play different drum sounds with their keyboard or mouse. This project demonstrates essential web development concepts like event listeners, audio control, and user interaction. The application features real-time visual feedback when drums are played, a volume control slider, and a responsive design for seamless performance across devices.",
     tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome", "Google Fonts"],
     category: "Frontend",
-    image: "/images/DrumKit.png",
+    image: "/images/DrumKit.jpg",
     githubLink: "https://github.com/NishulDhakar/DrumKit",
     liveLink: "https://nishuldhakar.github.io/DrumKit/",
     color: "from-yellow-500 to-red-600",
@@ -54,6 +54,32 @@ const Projects = () => {
         text: "DrumKit is a super fun way to explore web interactivity. The real-time feedback and sound effects make it feel like a real drum set!",
         author: "John D., Music Enthusiast"
     }},
+
+    {
+      "title": "Typing Game",
+      "date": "Mar 2025",
+      "description": "A lightning-fast typing speed and accuracy tracker built with React + Vite. Challenge yourself, track progress, and become a typing champion!",
+      "longDescription": "Typing Game is an engaging and interactive web-based typing speed and accuracy tracker. It allows users to practice and enhance their typing skills with real-time Words Per Minute (WPM) and accuracy tracking. The app features an intuitive UI, progress analytics, achievement tracking, and dark mode support. Whether you're a beginner looking to improve or a pro aiming for the top, this game provides a fun and competitive typing experience.",
+      "tags": ["React", "Vite", "JavaScript", "CSS3", "HTML5"],
+      "category": "Frontend",
+      "image": "/images/TypingGame.png",
+      "githubLink": "https://github.com/NishulDhakar/Typing-Game",
+      "liveLink": "https://your-live-demo-link.com",
+      "color": "from-blue-500 to-indigo-600",
+      "features": [
+          "Real-time Words Per Minute (WPM) and accuracy tracking",
+          "Clean, distraction-free interface with dark mode support",
+          "Detailed performance analytics with historical stats tracking",
+          "Achievement system and accuracy streaks for gamification",
+          "Customizable difficulty levels and text input options",
+          "Mobile-friendly, responsive design for all devices"
+      ],
+      "testimonial": {
+          "text": "This typing game is a fantastic way to improve speed and accuracy! The real-time stats and achievement system keep me engaged and motivated.",
+          "author": "Sarah T., Typing Enthusiast"
+      }
+  }
+  
     
   ];
 
