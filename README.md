@@ -2,18 +2,6 @@
   
 # 🚀 ProjectFolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/12345678-1234-1234-1234-123456789012/deploy-status)](https://app.netlify.com/sites/projectfolio/deploys)
-[![GitHub stars](https://img.shields.io/github/stars/NishulDhakar/ProjectFolio?style=social)](https://github.com/NishulDhakar/ProjectFolio/stargazers)
-[![GitHub license](https://img.shields.io/github/license/NishulDhakar/ProjectFolio)](https://github.com/NishulDhakar/ProjectFolio/blob/main/LICENSE)
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=ProjectFolio" alt="ProjectFolio Preview" width="600px" />
-</p>
-
-**A dynamic, pixel-perfect portfolio for the modern developer**
-  
-[✨ Explore Demo](https://projectfolio.dev) • [🔍 View Examples](https://projectfolio.dev/gallery) • [📚 Documentation](https://projectfolio.dev/docs) • [🐛 Report Bug](https://github.com/NishulDhakar/ProjectFolio/issues) • [✅ Request Feature](https://github.com/NishulDhakar/ProjectFolio/issues)
-
 </div>
 
 ## 💫 Overview
