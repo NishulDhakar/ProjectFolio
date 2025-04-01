@@ -79,6 +79,32 @@ const Projects = () => {
           "author": "Sarah T., Typing Enthusiast"
       }
   }
+    {
+  "title": "Midnight Restaurant",
+  "date": "Apr 2025",
+  "description": "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
+  "longDescription": "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
+  "tags": ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
+  "category": "Frontend",
+  "image": "/images/MidnightRestaurant.png",
+  "githubLink": "https://github.com/NishulDhakar/Restaurant-website",
+  "liveLink": "https://midnight-restaurant.netlify.app/",
+  "color": "from-gray-900 to-yellow-800",
+  "features": [
+    "Sophisticated dark theme with dynamic golden accents",
+    "AI-powered interactive sommelier for drink pairing",
+    "Moon phase-aligned reservation booking system",
+    "Immersive visual gallery with elegant photography",
+    "Dynamic interactive menu with food presentations",
+    "Responsive design for all device sizes",
+    "Smooth animations with Framer Motion",
+    "Customizable theme colors via CSS variables"
+  ],
+  "testimonial": {
+    "text": "The Midnight Restaurant website perfectly captures the essence of fine dining after dark. The lunar reservation system is pure genius and the drink pairing AI is scarily accurate!",
+    "author": "Chef Antoine, Michelin Starred"
+  }
+}
   
     
   ];
