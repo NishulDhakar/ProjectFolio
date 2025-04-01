@@ -57,7 +57,7 @@ const Projects = () => {
     },
     {
       title: "Typing Game",
-      date: "Mar 2025",
+      date: "Oct 2024",
       description: "A lightning-fast typing speed and accuracy tracker built with React + Vite. Challenge yourself, track progress, and become a typing champion!",
       longDescription: "Typing Game is an engaging and interactive web-based typing speed and accuracy tracker. It allows users to practice and enhance their typing skills with real-time Words Per Minute (WPM) and accuracy tracking. The app features an intuitive UI, progress analytics, achievement tracking, and dark mode support. Whether you're a beginner looking to improve or a pro aiming for the top, this game provides a fun and competitive typing experience.",
       tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5"],
@@ -81,7 +81,7 @@ const Projects = () => {
     },
     {
       title: "Midnight Restaurant",
-      date: "Apr 2025",
+      date: "Dec 2024",
       description: "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
       longDescription: "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
       tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
