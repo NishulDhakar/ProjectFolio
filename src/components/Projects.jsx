@@ -32,81 +32,79 @@ const Projects = () => {
 
   const projects = [
     {
-    title: "DrumKit",
-    date: "Sep 2024",
-    description: "An interactive web application that allows users to play drums using keyboard keys or mouse clicks, showcasing DOM manipulation and audio integration.",
-    longDescription: "DrumKit is a fun and interactive web-based drum simulator that enables users to play different drum sounds with their keyboard or mouse. This project demonstrates essential web development concepts like event listeners, audio control, and user interaction. The application features real-time visual feedback when drums are played, a volume control slider, and a responsive design for seamless performance across devices.",
-    tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome", "Google Fonts"],
-    category: "Frontend",
-    image: "/images/DrumKit.jpg",
-    githubLink: "https://github.com/NishulDhakar/DrumKit",
-    liveLink: "https://nishuldhakar.github.io/DrumKit/",
-    color: "from-yellow-500 to-red-600",
-    features: [
+      title: "DrumKit",
+      date: "Sep 2024",
+      description: "An interactive web application that allows users to play drums using keyboard keys or mouse clicks, showcasing DOM manipulation and audio integration.",
+      longDescription: "DrumKit is a fun and interactive web-based drum simulator that enables users to play different drum sounds with their keyboard or mouse. This project demonstrates essential web development concepts like event listeners, audio control, and user interaction. The application features real-time visual feedback when drums are played, a volume control slider, and a responsive design for seamless performance across devices.",
+      tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome", "Google Fonts"],
+      category: "Frontend",
+      image: "/images/DrumKit.jpg",
+      githubLink: "https://github.com/NishulDhakar/DrumKit",
+      liveLink: "https://nishuldhakar.github.io/DrumKit/",
+      color: "from-yellow-500 to-red-600",
+      features: [
         "Interactive drum sounds triggered by keyboard keys",
         "Responsive mouse click interactions",
         "Visual feedback when keys/drums are pressed",
         "Multiple drum sound effects",
         "Volume control slider",
         "Responsive design for all devices"
-    ],
-    testimonial: {
+      ],
+      testimonial: {
         text: "DrumKit is a super fun way to explore web interactivity. The real-time feedback and sound effects make it feel like a real drum set!",
         author: "John D., Music Enthusiast"
-    }},
-
-    {
-      "title": "Typing Game",
-      "date": "Mar 2025",
-      "description": "A lightning-fast typing speed and accuracy tracker built with React + Vite. Challenge yourself, track progress, and become a typing champion!",
-      "longDescription": "Typing Game is an engaging and interactive web-based typing speed and accuracy tracker. It allows users to practice and enhance their typing skills with real-time Words Per Minute (WPM) and accuracy tracking. The app features an intuitive UI, progress analytics, achievement tracking, and dark mode support. Whether you're a beginner looking to improve or a pro aiming for the top, this game provides a fun and competitive typing experience.",
-      "tags": ["React", "Vite", "JavaScript", "CSS3", "HTML5"],
-      "category": "Frontend",
-      "image": "/images/TypingGame.png",
-      "githubLink": "https://github.com/NishulDhakar/Typing-Game",
-      "liveLink": "https://typing-game-lyart.vercel.app/",
-      "color": "from-blue-500 to-indigo-600",
-      "features": [
-          "Real-time Words Per Minute (WPM) and accuracy tracking",
-          "Clean, distraction-free interface with dark mode support",
-          "Detailed performance analytics with historical stats tracking",
-          "Achievement system and accuracy streaks for gamification",
-          "Customizable difficulty levels and text input options",
-          "Mobile-friendly, responsive design for all devices"
-      ],
-      "testimonial": {
-          "text": "This typing game is a fantastic way to improve speed and accuracy! The real-time stats and achievement system keep me engaged and motivated.",
-          "author": "Sarah T., Typing Enthusiast"
       }
-  }
+    },
     {
-  "title": "Midnight Restaurant",
-  "date": "Apr 2025",
-  "description": "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
-  "longDescription": "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
-  "tags": ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
-  "category": "Frontend",
-  "image": "/images/MidnightRestaurant.png",
-  "githubLink": "https://github.com/NishulDhakar/Restaurant-website",
-  "liveLink": "https://midnight-restaurant.netlify.app/",
-  "color": "from-gray-900 to-yellow-800",
-  "features": [
-    "Sophisticated dark theme with dynamic golden accents",
-    "AI-powered interactive sommelier for drink pairing",
-    "Moon phase-aligned reservation booking system",
-    "Immersive visual gallery with elegant photography",
-    "Dynamic interactive menu with food presentations",
-    "Responsive design for all device sizes",
-    "Smooth animations with Framer Motion",
-    "Customizable theme colors via CSS variables"
-  ],
-  "testimonial": {
-    "text": "The Midnight Restaurant website perfectly captures the essence of fine dining after dark. The lunar reservation system is pure genius and the drink pairing AI is scarily accurate!",
-    "author": "Chef Antoine, Michelin Starred"
-  }
-}
-  
-    
+      title: "Typing Game",
+      date: "Mar 2025",
+      description: "A lightning-fast typing speed and accuracy tracker built with React + Vite. Challenge yourself, track progress, and become a typing champion!",
+      longDescription: "Typing Game is an engaging and interactive web-based typing speed and accuracy tracker. It allows users to practice and enhance their typing skills with real-time Words Per Minute (WPM) and accuracy tracking. The app features an intuitive UI, progress analytics, achievement tracking, and dark mode support. Whether you're a beginner looking to improve or a pro aiming for the top, this game provides a fun and competitive typing experience.",
+      tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5"],
+      category: "Frontend",
+      image: "/images/TypingGame.png",
+      githubLink: "https://github.com/NishulDhakar/Typing-Game",
+      liveLink: "https://typing-game-lyart.vercel.app/",
+      color: "from-blue-500 to-indigo-600",
+      features: [
+        "Real-time Words Per Minute (WPM) and accuracy tracking",
+        "Clean, distraction-free interface with dark mode support",
+        "Detailed performance analytics with historical stats tracking",
+        "Achievement system and accuracy streaks for gamification",
+        "Customizable difficulty levels and text input options",
+        "Mobile-friendly, responsive design for all devices"
+      ],
+      testimonial: {
+        text: "This typing game is a fantastic way to improve speed and accuracy! The real-time stats and achievement system keep me engaged and motivated.",
+        author: "Sarah T., Typing Enthusiast"
+      }
+    },
+    {
+      title: "Midnight Restaurant",
+      date: "Apr 2025",
+      description: "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
+      longDescription: "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
+      tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
+      category: "Frontend",
+      image: "/images/MidnightRestaurant.png",
+      githubLink: "https://github.com/NishulDhakar/Restaurant-website",
+      liveLink: "https://midnight-restaurant.netlify.app/",
+      color: "from-gray-900 to-yellow-800",
+      features: [
+        "Sophisticated dark theme with dynamic golden accents",
+        "AI-powered interactive sommelier for drink pairing",
+        "Moon phase-aligned reservation booking system",
+        "Immersive visual gallery with elegant photography",
+        "Dynamic interactive menu with food presentations",
+        "Responsive design for all device sizes",
+        "Smooth animations with Framer Motion",
+        "Customizable theme colors via CSS variables"
+      ],
+      testimonial: {
+        text: "The Midnight Restaurant website perfectly captures the essence of fine dining after dark. The lunar reservation system is pure genius and the drink pairing AI is scarily accurate!",
+        author: "Chef Antoine, Michelin Starred"
+      }
+    }
   ];
 
   const categories = ["All", "Frontend", "Backend", "Fullstack"];
