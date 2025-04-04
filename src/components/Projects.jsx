@@ -88,7 +88,7 @@ const Projects = () => {
       category: "Frontend",
       image: "/images/MidnightRestaurant.png",
       githubLink: "https://github.com/NishulDhakar/Restaurant-website",
-      liveLink: "https://midnight-restaurant.netlify.app/",
+      liveLink: "https://restaurant-web-layout.netlify.app/",
       color: "from-gray-900 to-yellow-800",
       features: [
         "Sophisticated dark theme with dynamic golden accents",
