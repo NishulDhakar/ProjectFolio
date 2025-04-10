@@ -112,7 +112,7 @@ const Projects = () => {
   longDescription: "The QR Code Generator is a versatile tool that allows users to quickly create customized QR codes for URLs, text, or other data. With an intuitive interface, users can select from multiple color schemes, preview the QR code in real-time, and download it as an image. The app features responsive design, clean SVG output, and a simple one-click download process. Perfect for marketers, developers, or anyone needing to share information quickly via scannable codes.",
   tags: ["React", "JavaScript", "Tailwind CSS", "SVG", "HTML5"],
   category: "Frontend",
-  image: "/images/QR-Code.png",
+  image: "/images/Qr-code.png",
   githubLink: "https://github.com/NishulDhakar/QR-Generator",
   liveLink: "https://qr-generator-j1h7.vercel.app/",
   color: "from-purple-500 to-pink-600",
