@@ -60,7 +60,7 @@ const Projects = () => {
       date: "Oct 2024",
       description: "A lightning-fast typing speed and accuracy tracker built with React + Vite. Challenge yourself, track progress, and become a typing champion!",
       longDescription: "Typing Game is an engaging and interactive web-based typing speed and accuracy tracker. It allows users to practice and enhance their typing skills with real-time Words Per Minute (WPM) and accuracy tracking. The app features an intuitive UI, progress analytics, achievement tracking, and dark mode support. Whether you're a beginner looking to improve or a pro aiming for the top, this game provides a fun and competitive typing experience.",
-      tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5"],
+      tags: ["React", "JavaScript", "Tailwind CSS"],
       category: "Frontend",
       image: "/images/TypingGame.png",
       githubLink: "https://github.com/NishulDhakar/Typing-Game",
@@ -107,7 +107,7 @@ const Projects = () => {
     },
     {
   title: "QR Code Generator",
-  date: "Oct 2024",
+  date: "March 2025",
   description: "A customizable QR code generator with multiple color schemes and instant preview. Create, style, and download QR codes in seconds!",
   longDescription: "The QR Code Generator is a versatile tool that allows users to quickly create customized QR codes for URLs, text, or other data. With an intuitive interface, users can select from multiple color schemes, preview the QR code in real-time, and download it as an image. The app features responsive design, clean SVG output, and a simple one-click download process. Perfect for marketers, developers, or anyone needing to share information quickly via scannable codes.",
   tags: ["React", "JavaScript", "Tailwind CSS", "SVG", "HTML5"],
