@@ -12,7 +12,7 @@ A sleek, minimal portfolio website built with React, designed to showcase your d
 
 ## 💻 Tech Stack
 
-* **Frontend:** React.js, Next.js
+* **Frontend:** React.js
 * **Styling:** Tailwind CSS
 * **Animations:** Framer Motion
 * **Deployment:** Vercel
