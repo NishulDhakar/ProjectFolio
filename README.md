@@ -58,11 +58,6 @@ export const projects = [
 ];
 ```
 
-## 👨‍💻 Author 
-
-* Linkdin: [NishulDhakar](https://www.linkedin.com/in/nishuldhakar/)
-* Website: [https://project-folio-chi.vercel.app/](https://project-folio-chi.vercel.app/)
-
 ## ⭐ Support
 
 If you find this project useful, please consider giving it a star on GitHub!
@@ -70,3 +65,24 @@ If you find this project useful, please consider giving it a star on GitHub!
 ## 📄 License
 
 This project is available under the MIT License.
+
+--
+
+## 🌠 Contact
+
+<p align="center">
+  <a href="https://twitter.com/Nishuldhakar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nishuldhakar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200">
+  <br>
+  <em>Building the future one line at a time....</em>🚀💻✨
+</p>
+
