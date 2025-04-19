@@ -66,7 +66,7 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 This project is available under the MIT License.
 
---
+---
 
 ## 🌠 Contact
 
