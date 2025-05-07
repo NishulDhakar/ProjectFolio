@@ -31,30 +31,30 @@ const Projects = () => {
   }, []);
 
   const projects = [
-    {
-      title: "DrumKit",
-      date: "Sep 2024",
-      description: "An interactive web application that allows users to play drums using keyboard keys or mouse clicks, showcasing DOM manipulation and audio integration.",
-      longDescription: "DrumKit is a fun and interactive web-based drum simulator that enables users to play different drum sounds with their keyboard or mouse. This project demonstrates essential web development concepts like event listeners, audio control, and user interaction. The application features real-time visual feedback when drums are played, a volume control slider, and a responsive design for seamless performance across devices.",
-      tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome", "Google Fonts"],
-      category: "Frontend",
-      image: "/images/DrumKit.jpg",
-      githubLink: "https://github.com/NishulDhakar/DrumKit",
-      liveLink: "https://nishuldhakar.github.io/DrumKit/",
-      color: "from-yellow-500 to-red-600",
-      features: [
-        "Interactive drum sounds triggered by keyboard keys",
-        "Responsive mouse click interactions",
-        "Visual feedback when keys/drums are pressed",
-        "Multiple drum sound effects",
-        "Volume control slider",
-        "Responsive design for all devices"
-      ],
-      testimonial: {
-        text: "DrumKit is a super fun way to explore web interactivity. The real-time feedback and sound effects make it feel like a real drum set!",
-        author: "John D., Music Enthusiast"
-      }
-    },
+    // {
+    //   title: "DrumKit",
+    //   date: "Sep 2024",
+    //   description: "An interactive web application that allows users to play drums using keyboard keys or mouse clicks, showcasing DOM manipulation and audio integration.",
+    //   longDescription: "DrumKit is a fun and interactive web-based drum simulator that enables users to play different drum sounds with their keyboard or mouse. This project demonstrates essential web development concepts like event listeners, audio control, and user interaction. The application features real-time visual feedback when drums are played, a volume control slider, and a responsive design for seamless performance across devices.",
+    //   tags: ["HTML5", "CSS3", "JavaScript", "Font Awesome", "Google Fonts"],
+    //   category: "Frontend",
+    //   image: "/images/DrumKit.jpg",
+    //   githubLink: "https://github.com/NishulDhakar/DrumKit",
+    //   liveLink: "https://nishuldhakar.github.io/DrumKit/",
+    //   color: "from-yellow-500 to-red-600",
+    //   features: [
+    //     "Interactive drum sounds triggered by keyboard keys",
+    //     "Responsive mouse click interactions",
+    //     "Visual feedback when keys/drums are pressed",
+    //     "Multiple drum sound effects",
+    //     "Volume control slider",
+    //     "Responsive design for all devices"
+    //   ],
+    //   testimonial: {
+    //     text: "DrumKit is a super fun way to explore web interactivity. The real-time feedback and sound effects make it feel like a real drum set!",
+    //     author: "John D., Music Enthusiast"
+    //   }
+    // },
     {
       title: "Typing Game",
       date: "Oct 2024",
