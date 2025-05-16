@@ -24,12 +24,6 @@ function Footer() {
       hoverColor: "hover:text-white group-hover:bg-gray-800",
     },
     {
-      href: "https://x.com/NishulDhakar",
-      icon: <Twitter size={20} />,
-      label: "Twitter",
-      hoverColor: "hover:text-blue-400 group-hover:bg-blue-900/20",
-    },
-    {
       href: "https://www.linkedin.com/in/nishuldhakar/",
       icon: <Linkedin size={20} />,
       label: "LinkedIn",
