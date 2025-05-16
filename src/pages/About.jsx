@@ -285,7 +285,6 @@ const About = () => {
         >
           {[
             { href: "https://github.com/Nishuldhakar", Icon: Github, label: "GitHub", color: "group-hover:text-purple-400" },
-            { href: "https://x.com/Nishuldhakar", Icon: Twitter, label: "Twitter", color: "group-hover:text-blue-400" },
             { href: "https://www.linkedin.com/in/Nishuldhakar/", Icon: Linkedin, label: "LinkedIn", color: "group-hover:text-blue-500" },
           
           ].map(({ href, Icon, label, color }) => (
