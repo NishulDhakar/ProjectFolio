@@ -62,9 +62,9 @@ export const projects = [
 
 If you find this project useful, please consider giving it a star on GitHub!
 
-## 📄 License
+<!-- ## 📄 License
 
-This project is available under the MIT License.
+This project is available under the MIT License. -->
 
 ---
 
