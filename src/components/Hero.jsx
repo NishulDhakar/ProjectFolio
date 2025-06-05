@@ -85,7 +85,7 @@ const Hero = () => {
             variants={itemVariants}
             className="text-lg text-gray-400 max-w-xl mb-8"
           >
-            Explore, Learn, and Build with React, Node.js, MongoDB, JWT, Docker and Modern Web Technologies & Framworks.
+            Explore, Learn, and Build with React, Node.js, Express, MongoDB, Next.js, Typescript and Modern Web Technologies & Framworks.
           </motion.p>
           
           {/* Feature highlights */}

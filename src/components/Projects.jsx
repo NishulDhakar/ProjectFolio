@@ -79,57 +79,57 @@ const Projects = () => {
         author: "Sarah T., Typing Enthusiast"
       }
     },
-    {
-      title: "Midnight Restaurant",
-      date: "Dec 2024",
-      description: "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
-      longDescription: "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
-      tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
-      category: "Frontend",
-      image: "/images/MidnightRestaurant.png",
-      githubLink: "https://github.com/NishulDhakar/Restaurant-website",
-      liveLink: "https://restaurant-web-layout.netlify.app/",
-      color: "from-gray-900 to-yellow-800",
-      features: [
-        "Sophisticated dark theme with dynamic golden accents",
-        "AI-powered interactive sommelier for drink pairing",
-        "Moon phase-aligned reservation booking system",
-        "Immersive visual gallery with elegant photography",
-        "Dynamic interactive menu with food presentations",
-        "Responsive design for all device sizes",
-        "Smooth animations with Framer Motion",
-        "Customizable theme colors via CSS variables"
-      ],
-      testimonial: {
-        text: "The Midnight Restaurant website perfectly captures the essence of fine dining after dark. The lunar reservation system is pure genius and the drink pairing AI is scarily accurate!",
-        author: "Chef Antoine, Michelin Starred"
-      }
-    },
-    {
-  title: "QR Code Generator",
-  date: "March 2025",
-  description: "A customizable QR code generator with multiple color schemes and instant preview. Create, style, and download QR codes in seconds!",
-  longDescription: "The QR Code Generator is a versatile tool that allows users to quickly create customized QR codes for URLs, text, or other data. With an intuitive interface, users can select from multiple color schemes, preview the QR code in real-time, and download it as an image. The app features responsive design, clean SVG output, and a simple one-click download process. Perfect for marketers, developers, or anyone needing to share information quickly via scannable codes.",
-  tags: ["React", "JavaScript", "Tailwind CSS", "SVG", "HTML5"],
-  category: "Frontend",
-  image: "/images/Qr-code.png",
-  githubLink: "https://github.com/NishulDhakar/QR-Generator",
-  liveLink: "https://qr-generator-j1h7.vercel.app/",
-  color: "from-purple-500 to-pink-600",
-  features: [
-    "Real-time QR code generation with instant preview",
-    "Multiple customizable color schemes",
-    "Clean SVG output for high-quality scaling",
-    "One-click download functionality",
-    "Responsive design works on all devices",
-    "Simple, intuitive user interface",
-    "Supports any text or URL input"
-  ],
-  testimonial: {
-    text: "This QR generator saves me so much time! I use it daily for creating marketing materials and event promotions. The color customization is a game-changer.",
-    author: "Mark J., Digital Marketer"
-  }
-}
+//     {
+//       title: "Midnight Restaurant",
+//       date: "Dec 2024",
+//       description: "An elegant restaurant website featuring a sophisticated nocturnal theme, combining modern web technologies with an immersive dining experience.",
+//       longDescription: "Midnight Restaurant is a high-end dining establishment website that transports visitors into a nocturnal culinary experience. The site features a sophisticated dark theme with golden accents, AI-powered drink pairing suggestions, and lunar cycle-aligned reservation system. Built with React and Vite, it offers an immersive gallery, dynamic menu presentation, and buttery smooth animations. The responsive design ensures an elegant experience across all devices, from mobile to desktop.",
+//       tags: ["React", "Vite", "JavaScript", "CSS3", "HTML5", "Framer Motion", "Netlify"],
+//       category: "Frontend",
+//       image: "/images/MidnightRestaurant.png",
+//       githubLink: "https://github.com/NishulDhakar/Restaurant-website",
+//       liveLink: "https://restaurant-web-layout.netlify.app/",
+//       color: "from-gray-900 to-yellow-800",
+//       features: [
+//         "Sophisticated dark theme with dynamic golden accents",
+//         "AI-powered interactive sommelier for drink pairing",
+//         "Moon phase-aligned reservation booking system",
+//         "Immersive visual gallery with elegant photography",
+//         "Dynamic interactive menu with food presentations",
+//         "Responsive design for all device sizes",
+//         "Smooth animations with Framer Motion",
+//         "Customizable theme colors via CSS variables"
+//       ],
+//       testimonial: {
+//         text: "The Midnight Restaurant website perfectly captures the essence of fine dining after dark. The lunar reservation system is pure genius and the drink pairing AI is scarily accurate!",
+//         author: "Chef Antoine, Michelin Starred"
+//       }
+//     },
+//     {
+//   title: "QR Code Generator",
+//   date: "March 2025",
+//   description: "A customizable QR code generator with multiple color schemes and instant preview. Create, style, and download QR codes in seconds!",
+//   longDescription: "The QR Code Generator is a versatile tool that allows users to quickly create customized QR codes for URLs, text, or other data. With an intuitive interface, users can select from multiple color schemes, preview the QR code in real-time, and download it as an image. The app features responsive design, clean SVG output, and a simple one-click download process. Perfect for marketers, developers, or anyone needing to share information quickly via scannable codes.",
+//   tags: ["React", "JavaScript", "Tailwind CSS", "SVG", "HTML5"],
+//   category: "Frontend",
+//   image: "/images/Qr-code.png",
+//   githubLink: "https://github.com/NishulDhakar/QR-Generator",
+//   liveLink: "https://qr-generator-j1h7.vercel.app/",
+//   color: "from-purple-500 to-pink-600",
+//   features: [
+//     "Real-time QR code generation with instant preview",
+//     "Multiple customizable color schemes",
+//     "Clean SVG output for high-quality scaling",
+//     "One-click download functionality",
+//     "Responsive design works on all devices",
+//     "Simple, intuitive user interface",
+//     "Supports any text or URL input"
+//   ],
+//   testimonial: {
+//     text: "This QR generator saves me so much time! I use it daily for creating marketing materials and event promotions. The color customization is a game-changer.",
+//     author: "Mark J., Digital Marketer"
+//   }
+// }
   ];
 
   const categories = ["All", "Frontend", "Backend", "Fullstack"];

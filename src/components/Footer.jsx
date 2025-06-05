@@ -38,8 +38,8 @@ function Footer() {
   ];
 
   const navLinks = [
-    { href: "/about", label: "About" },
-    { href: "/#Resume", label: "Resume" },
+    // { href: "/about", label: "About" },
+    { href: "https://drive.google.com/file/d/1WtQjvplljIClCwtqiQ0tSje5wSW4uDHO/view?usp=drive_link", label: "Resume" },
 
   ];
 

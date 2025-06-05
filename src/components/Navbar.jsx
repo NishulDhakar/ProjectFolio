@@ -150,7 +150,7 @@ function Navbar() {
 
           {/* Desktop Menu - Enhanced */}
           <div className="hidden md:flex items-center space-x-2">
-            <NavLink 
+            {/* <NavLink 
               to="/" 
               isActive={isActive("/")} 
               themeColor={currentTheme}
@@ -158,9 +158,9 @@ function Navbar() {
             >
               <Home size={18} className="mr-2" />
               <span>Home</span>
-            </NavLink>
+            </NavLink> */}
             
-            <NavLink 
+            {/* <NavLink 
               to="/about" 
               isActive={isActive("/about")} 
               themeColor={currentTheme}
@@ -168,7 +168,7 @@ function Navbar() {
             >
               <User size={18} className="mr-2" />
               <span>About</span>
-            </NavLink>
+            </NavLink> */}
 
             {/* GitHub button with animation */}
             <motion.a 
